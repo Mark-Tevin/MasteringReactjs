@@ -38,3 +38,19 @@ npm install
 
 # Start the development server
 npm run dev
+
+
+
+## 🧠 What I Learned
+
+How to manage state with useState and useEffect
+How to use browser localStorage to persist data
+Structuring components in React for reusability
+Styling with utility-first CSS (FantaCSS was fun!)
+
+## 🧪 Future Improvements
+✅ Add edit functionality
+✅ Task completion toggle
+🔄 Add filter for active/completed tasks
+☁️ Backend integration (e.g. Firebase or Supabase)
+🌙 Dark mode support
