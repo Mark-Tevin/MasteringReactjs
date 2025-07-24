@@ -1,12 +1,40 @@
-# React + Vite
+# ✅ React To-Do App with FantaCSS & Local Storage
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek, responsive To-Do List app built with **ReactJS** and styled using **FantaCSS**. This app lets you add, delete, and manage your tasks, all while saving them persistently using **Local Storage**. Simple. Stylish. Super useful.
 
-Currently, two official plugins are available:
+![React To-Do App Screenshot](./screenshot.png) <!-- I will add a screenshot of how the app looks like -->
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 📝 Add & delete tasks in real-time  
+- 💾 Tasks persist in Local Storage (even after page refresh)  
+- 🎨 Clean UI with FantaCSS for effortless styling  
+- 📱 Fully responsive for mobile and desktop  
+- 💡 Simple codebase for learning and customization  
+
+---
+
+## 🛠️ Tech Stack
+
+- **ReactJS (Functional Components + Hooks)**  
+- **FantaCSS** – Lightweight utility-first CSS framework  
+- **LocalStorage API** for saving user data  
+
+---
+
+## 📦 Installation
+
+```bash
+# Clone the repo
+git clone https://github.com/Mark-Tevin/MasteringReactjs.git
+
+# Navigate to the project
+cd to-do_app
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
